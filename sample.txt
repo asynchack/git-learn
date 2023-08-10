@@ -6,3 +6,4 @@ five-by-local
 commit: 是提交stage状态的修改到本地数据库中
 add by remote
 add by local
+add by repo
