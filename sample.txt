@@ -2,4 +2,4 @@ learn-git
 second-commit
 third-commit-by-local
 four-commit-by-vm
-five-by-vm
+five-by-local
